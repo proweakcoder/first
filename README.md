@@ -1,4 +1,4 @@
-# first
+# hello-world repository
 First GIT repo.
 <br>
-author-abc
+author-proweakcoder
